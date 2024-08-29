@@ -1,6 +1,5 @@
 import React from 'react';
 import './Experience.css';
-//import amazonLogo from './amazon-logo.png'; // Ensure you have an Amazon logo image in your project
 
 const WorkExperience = () => {
   return (
